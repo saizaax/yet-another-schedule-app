@@ -1,0 +1,3 @@
+[submodule "yet-another-schedule-app-frontend"]
+	path = yet-another-schedule-app-frontend
+	url = https://github.com/saizaax/yet-another-schedule-app-frontend
