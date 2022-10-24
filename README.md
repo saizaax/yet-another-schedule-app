@@ -1,4 +1,4 @@
-# Yet Another Schedule App — Web Schedule Application 🗓️
+# Yet Another Schedule App — Web Schedule App 🗓️
 
 [![](https://img.shields.io/website?down_message=offline&label=schedule.saizaax.xyz&up_message=online&url=http%3A%2F%2Fschedule.saizaax.xyz%2F)](https://schedule.saizaax.xyz/)
 [![ReactJS](https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=white)](https://reactjs.org/)
