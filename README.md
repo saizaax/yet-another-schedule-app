@@ -1,6 +1,6 @@
 # Yet Another Schedule App — Web Schedule App 🗓️
 
-[![](https://img.shields.io/website?down_message=offline&label=schedule.saizaax.xyz&up_message=online&url=http%3A%2F%2Fschedule.saizaax.xyz%2F)](https://schedule.saizaax.xyz/)
+[![](https://img.shields.io/website?down_message=offline&label=schedule.saizaax.dev&up_message=online&url=http%3A%2F%2Fschedule.saizaax.dev%2F)](https://schedule.saizaax.dev/)
 [![ReactJS](https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Express](https://img.shields.io/badge/Express-ffffff?logo=express&logoColor=black)](https://expressjs.com/)
@@ -11,7 +11,7 @@
 ![](preview.png)
 
 <h3 align="center">
-✨ Preview • <a href="https://schedule.saizaax.xyz/">schedule.saizaax.xyz</a>
+✨ Preview • <a href="https://schedule.saizaax.dev/">schedule.saizaax.dev</a>
 </h3>
 
 ## Technologies
